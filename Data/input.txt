@@ -1,0 +1,5 @@
+S -> ABC
+A -> Aa|a
+B -> CS|b
+C -> c|$
+D -> A|bc|$
